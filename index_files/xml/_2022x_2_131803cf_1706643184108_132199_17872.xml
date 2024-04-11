@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?><magicdraw><comment id="_2022x_2_131803cf_1706643184108_132199_17872" refElementId="_2022x_2_131803cf_1706643184108_132199_17872" humanType="Comment" classType="Comment" requireSort="node" icon="index_files/icon_comment_1407155815.jpg"><owningElement refid="_2022x_2_131803cf_1706642443224_603242_17579" refElementId="_2022x_2_131803cf_1706642443224_603242_17579" humanType="Package" classType="Package" name="Assurance Case" hasDiagram="true" icon="index_files/icon_package_1124140751.jpg" humanName="Owning Element"/><owner refid="_2022x_2_131803cf_1706642443224_603242_17579" refElementId="_2022x_2_131803cf_1706642443224_603242_17579" humanType="Package" classType="Package" name="Assurance Case" hasDiagram="true" icon="index_files/icon_package_1124140751.jpg" humanName="Owner" mode="s,e"/><documentation humanName="Documentation"></documentation><body humanName="Body" mode="s,e">&lt;html>
+  &lt;head>
+		&lt;style>
+			p {padding:0px; margin:0px;}
+		&lt;/style>
+	&lt;/head>
+  &lt;body>
+    &lt;p align="left" style="margin-top:0px;margin-bottom:0.0px;margin-left:0.0px;">
+&lt;span style="font-family:Menlo-Regular; font-size:11pt; color:#000000; font-weight:normal;">The CER framework helps develop strong arguments by focusing on three key elements:&lt;/span>
+
+    &lt;/p>
+
+    &lt;p style="margin-top:0px;margin-bottom:0px;">
+&amp;#160;
+
+    &lt;/p>
+
+    &lt;p align="left" style="margin-top:0px;margin-bottom:0.0px;margin-left:0.0px;">
+&lt;span style="font-family:Menlo-Regular; font-size:11pt; color:#000000; font-weight:normal;">1. Claim: A statement that needs to be supported by evidence and reasoning.&lt;/span>
+
+    &lt;/p>
+
+    &lt;p align="left" style="margin-top:0px;margin-bottom:0.0px;margin-left:0.0px;">
+&lt;span style="font-family:Menlo-Regular; font-size:11pt; color:#000000; font-weight:normal;">2. Evidence: Data or information that supports the claim.&lt;/span>
+
+    &lt;/p>
+
+    &lt;p align="left" style="margin-top:0px;margin-bottom:0.0px;margin-left:0.0px;">
+&lt;span style="font-family:Menlo-Regular; font-size:11pt; color:#000000; font-weight:normal;">3. Reasoning: An explanation of how the evidence supports the claim.&lt;/span>
+
+    &lt;/p>
+
+&lt;/body>
+&lt;/html></body><TO_DO humanName="To Do" mode="s,e"></TO_DO><ActiveHyperlink humanName="Active Hyperlink"></ActiveHyperlink><report_appliedStereotype_tags humanName="Applied Stereotype" requireSort="element" mode="s,e"/></comment></magicdraw>
